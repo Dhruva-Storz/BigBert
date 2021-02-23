@@ -125,7 +125,13 @@ y_train = np.array(de_train_scores).astype(float)
 Choose a mode from {```'SVR', 'MLP_torch', 'MLP_sckit'```} and execute ```main.py```.
 You can define all the hyperparameters in the ```main()``` fucntion.
 
-## Authors
+### Relevant papers
+
+[Regression for machine translation evaluation at the sentence level](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s10590-008-9046-1.pdf&casa_token=hfknXfFo7osAAAAA:aaf-7G6ynHdGYxhhzuNvED0qNOmfK5UdgwPK-cCP4iwk0RY-J1svV-k7Juhwdvysyb8rWK36deqGgoxZJQ)
+[Ruse: Regressor using sentence embeddings for automatic machine translation evaluation](https://www.aclweb.org/anthology/W18-6456.pdf)
+[Putting evaluation in context: Contextual embeddings improve machine translation evaluation](https://www.aclweb.org/anthology/P19-1269.pdf)
+
+### Authors
 
 * **Christos Seas** 
 * **Dhruva Gowda Storz** 
